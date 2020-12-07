@@ -4,7 +4,6 @@
 #include "stm32f10x_tim.h"    
 #include "delay.h"
 
-void pll_Init(void);
 void PWM_Init(void);
 int brightness;
 int main(void)
